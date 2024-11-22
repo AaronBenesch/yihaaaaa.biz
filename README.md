@@ -16,3 +16,8 @@ IP Liste
 |Spare                    |172.16.100.8-11  |  
 |Workstations+ MG         |172.16.100.12-65 |  
 |Spare                    |172.16.100.66-72 |  
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
