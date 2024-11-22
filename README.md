@@ -29,8 +29,8 @@ IP Liste:
 |Spare                    |172.16.100.66-72 |  
 
 Switch
-1.	Switch reset, mit einer Büroklammer in den reset drücken und 10 Sek. warten
-2.	IP&Subnetz auf deinem PC ändern, um im gleichen Subnetz zu sein wie die Switch, um auf der Benutzeroberfläche zu kommen. (IP von der Switch ist auf der Rückseite)
+1.	Switch Reset, mit einer Büroklammer in den Resetbutton drücken und 10 Sek. warten
+2.	IP & Subnetz auf deinem PC ändern, um im gleichen Subnetz zu sein wie die Switch, um auf der Benutzeroberfläche zu kommen. (IP-Adresse von der Switch ist auf der Rückseite)
 3.	Um auf die Benutzeroberfläche zu kommen, muss man die IP in den Browser eingeben und dann auf das untere rechte klicken dann das Password eingeben, das steht auch auf der Rückseite. Dann das Password wechseln auf «Zli12345»Zb.
 4.	Dann kommt man auf die Oberfläche und kann dort dir IP und denn Namen der Switch ändern.
 5.	Sobald die IP geändert wurde, muss du wieder deine eigene ändern, um im gleichen wieder zu sein.
