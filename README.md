@@ -17,7 +17,15 @@ IP Liste
 |Workstations+ MG         |172.16.100.12-65 |  
 |Spare                    |172.16.100.66-72 |  
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
+
+Namenkonvension:
+| Bedeutung               |Abkürzung        |Zuordung  |
+|-------------------------|-----------------|----------|
+|NetzID                   |172.16.100.0     |  
+|Router                   |172.16.100.1     |  
+|Access Point1            |172.16.100.2     |  
+|Access Point2            |172.16.100.3     |  
+|Access Point3            |172.16.100.4     |  
+|Firewall                 |172.16.100.5     |  
+|Switch1                  |172.16.100.6     |  
+|Switch2                  |172.16.100.7     |  
